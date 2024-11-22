@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map  https://circolaremaremma.github.io/mappa-partner/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1WVJcQLcgPpF87193DTWSd06hXQi-Fe0pZlLN1NruuNI/edit?gid=0#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1rMc16kYn0lzwMyWGzDNnrhWRv4RU0vCtuzsDbFWA4Tw/edit?gid=0#gid=0
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
